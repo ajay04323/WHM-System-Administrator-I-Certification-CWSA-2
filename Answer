@@ -1,0 +1,121 @@
+Which of the following can be customized in a package?
+Feature List
+
+Which of the following git commands would you use to update the master branch?
+merge
+
+All of the following external service are available for remote backup destination except
+iCloud
+
+One of the most important features used by developer is the Application Manager. What is the main use of this manageer?
+register and uregister applications
+
+Let's assume a node.js developer has an account called "user" on your WHM server abd they followed the cPanel guide to creating a test node.js
+/home/user/nodejsapp/app.js
+
+Assuming a cPanel account is using a Feature List with the "SSH Access & Terminal" feature enabled, which privillege will they need to actually acess the Terminal feature:
+Shell Access
+
+A simple definition of a "package" in a WHM server would be as follows:
+a set of resource limits and list of usable features
+
+During backup you need to specify staging directories. Which of the following can not be used as a staging directory on your server?
+/backup
+
+The main purpose of the application Git is?
+code version control
+
+What is the version control feature provided by cPanel
+Git
+
+Which term is defined as:"Adding custom content to header or footer of the UI"?
+includes
+
+The EasyApache profiles are found in which location?
+/etc/cpanel/ea4
+
+When you run the "ea_install_profile" command and you want to test the output. but not actually install the profile you would use which option?
+default (no option)
+
+The location of the branding files for roots is foud in which of these locations?
+/var/cpanel/customizations/brand
+
+Which of the following interfaces are you able to make branding changes to match your companies logo and brand?
+cPanel & Webmail
+
+The location of the branding files for resellers is found in which of these locations?
+/home/reseller/var/cpanel/reseller/brand
+
+When creating a custom profile file. which file type is used to store the information?
+jSON
+
+The ea-cpanel-tools package contains executables to help you manage your EasyApache 4 configurations from the command line are found in this location:
+/usr/local/bin
+
+Which term is defined as:"Applies an overlay the skeletal framework for all the interfaces"?
+Theme
+
+cpapi2 calls are simillar to which other type of API calls?
+uapi
+
+Which language is used for a plugin installation?
+PHP
+
+An example of an API could be seen as which of the following situations?
+Acquire a list of databases
+
+Which file contains the setting for a plugin?
+Configuration
+
+Which is the primary API that is used to modify cPanel user data?
+WHM API 1
+
+What of the following can be described as a structured way for one program to offer services to other programs?
+API
+
+WHM plugins MAY BE available to which type of accounts?
+Root or Reseller
+
+While not advised. which port would you use for unsecured API calls to a specific cPanel account?
+2082
+
+Which API performs server-level tasks?
+WHM API 1
+
+Webmail plugins are available to which type of accounts?
+Mail user
+
+All of the following scripts can be used in an application file except..
+Png
+
+All of the following code type can be run as a hook except
+Git
+
+How many categories of hookable events are possible?
+8
+
+Hook action code must be treated as an encoded data structure of which of the following types?
+JSON
+
+All hook action scripts must have the correct file permissions to work properly. which permissions do they need to have?
+755
+
+To enable debug mode you would do which of these actions?
+Choose the option from the Tweak Setting interface.
+
+
+
+To register a hookable event which script would you run?
+/usr/local/cpanel/bin/manage_hooks
+
+The scripts that you need to use to "register" you standard hook is called ...
+manage_hooks
+
+All of the following stages can be hooked during a backup except
+post
+
+All of the following categories are hookable events except..
+Upadate
+
+All of the following type of code ca be used as a hook action code are permissible except..
+.exe
